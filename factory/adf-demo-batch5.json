@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-batch5",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d38d6868-2bde-4b02-94e9-0fda91f31021",
+		"tenantId": "8dd46f7c-0dd6-41dc-99f5-62e7c1dbca45"
+	}
+}
